@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Switch, NavLink } from 'react-router-dom';
-import Dashboard from './Dashboard';
-import ProductsManagement from './ProductsManagement';
-import OrdersManagement from './OrdersManagement';
-import OrdersCalendarView from './OrdersCalendarView';
+import Dashboard from './Components/Dashboard/Dashboard';
+import ProductsManagement from './Components/ProductsManagement/ProductsManagement';
+import OrdersManagement from './Components/OrdersManagement/OrdersManagement';
+import OrdersCalendarView from './Components/OrdersCalendarView/OrdersCalendarView';
 import './index.css';
 
 const App = () => {
