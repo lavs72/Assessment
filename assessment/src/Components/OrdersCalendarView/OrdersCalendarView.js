@@ -4,8 +4,6 @@ import './OrdersCalendarView.css';
 const OrderDeliveryCalendar = () => {
   const [selectedDate, setSelectedDate] = useState(null);
   const [ordersForSelectedDate, setOrdersForSelectedDate] = useState([]);
-
-  // Updated simulated order data with status
   const orders = [
     { date: '2024-03-09', details: 'Order 1: Due for delivery', status: 'pending' },
     { date: '2024-03-12', details: 'Order 2: Due for delivery', status: 'delivered' },
@@ -16,7 +14,6 @@ const OrderDeliveryCalendar = () => {
     { date: '2024-03-18', details: 'Order 2: Due for delivery', status: 'pending' },
     { date: '2024-03-27', details: 'Order 2: Due for delivery', status: 'delivered' },
     { date: '2024-03-27', details: 'Order 1: Due for delivery', status: 'pending' },
-    // Add more orders as needed
   ];
 
   const handleDateClick = (day) => {

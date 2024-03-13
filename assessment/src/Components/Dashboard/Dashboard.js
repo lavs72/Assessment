@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Dashboard.css'; // Import the CSS file
+import './Dashboard.css'; 
 
 class Dashboard extends React.Component {
     constructor(props) {
@@ -12,7 +12,6 @@ class Dashboard extends React.Component {
     }
 
     componentDidMount() {
-        // Fetch data and update state with actual metrics
         this.setState({
             totalProducts: 100,
             totalOrders: 50

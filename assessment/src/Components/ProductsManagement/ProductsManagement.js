@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProductForm from './ProductForm';
-import './ProductsManagement.css'; // Import the CSS file
+import './ProductsManagement.css';
 
 const initialProducts = [
   { id: 1, name: 'Product 1', category: 'Category 1', price: 10, quantity: 100 },
