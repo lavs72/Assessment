@@ -1,5 +1,5 @@
 body{
-    background-color:  rgba(12, 15, 82, 0.34);
+     background-color: green;
 }
 .quick-navigation {
     display: flex;
@@ -21,4 +21,4 @@ body{
 .quick-navigation button:hover {
     background-color: #0056b3;
 }
-  
+
