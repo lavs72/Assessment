@@ -79,16 +79,16 @@ If you encounter any issues while running the application, please refer to the f
    
 ## Screenshots
 
-![dashboard](https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064)
+ ![dashboard](https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064)
 
 
-![productmanagement](https://github.com/lavs72/Assessment/assets/102307467/eed9406d-48b5-4f9f-9bc3-69bb61a1c1c5)
+ ![productmanagement](https://github.com/lavs72/Assessment/assets/102307467/eed9406d-48b5-4f9f-9bc3-69bb61a1c1c5)
 
 
-![ordermanagement](https://github.com/lavs72/Assessment/assets/102307467/cefbabc5-2bc2-4c9d-a2da-233c9bbebe27)
+ ![ordermanagement](https://github.com/lavs72/Assessment/assets/102307467/cefbabc5-2bc2-4c9d-a2da-233c9bbebe27)
 
 
-![ordercalendarview](https://github.com/lavs72/Assessment/assets/102307467/1cd65b7f-8021-40eb-b01c-986dc94b8f02)
+ ![ordercalendarview](https://github.com/lavs72/Assessment/assets/102307467/1cd65b7f-8021-40eb-b01c-986dc94b8f02)
 
 
 ## Support
