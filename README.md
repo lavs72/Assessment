@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README provides detailed instructions on how to run and use the front-end application for our ERP (Enterprise Resource Planning) 
+This README provides detailed instructions on how to run and use the front-end application for our ERP (Enterprise Resource Planning) system.
 
 ## Prerequisites
 
@@ -78,7 +78,7 @@ If you encounter any issues while running the application, please refer to the f
 3. Check for any errors in the console or terminal where the application is running.
    
 ## Screenshots
-
+ <img src="https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064">
  ![dashboard](https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064)
 
 
