@@ -79,7 +79,6 @@ If you encounter any issues while running the application, please refer to the f
    
 ## Screenshots
  <img src="https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064">
- ![dashboard](https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064)
 
 
  ![productmanagement](https://github.com/lavs72/Assessment/assets/102307467/eed9406d-48b5-4f9f-9bc3-69bb61a1c1c5)
