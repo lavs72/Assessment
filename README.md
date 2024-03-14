@@ -80,15 +80,15 @@ If you encounter any issues while running the application, please refer to the f
 ## Screenshots
 
  ## Dashboard
- ![WhatsApp Image 2024-03-14 at 12 00 25 PM](https://github.com/lavs72/Assessment/assets/102307467/10bc3481-9831-4038-8be8-3087badaaa48)
+ ![WhatsApp Image 2024-03-14 at 12 00 24 PM](https://github.com/lavs72/Assessment/assets/102307467/1704d390-f0e6-421f-90c0-0a861fdaf9fe)
 
  ## Products Management
  ![WhatsApp Image 2024-03-14 at 12 00 24 PM (1)](https://github.com/lavs72/Assessment/assets/102307467/b5f8ec67-379d-48c5-8d12-93fa5f73b4a4)
 
 
  ## Orders Management
- ![WhatsApp Image 2024-03-14 at 12 00 24 PM](https://github.com/lavs72/Assessment/assets/102307467/1704d390-f0e6-421f-90c0-0a861fdaf9fe)
-
+ 
+ ![WhatsApp Image 2024-03-14 at 12 00 25 PM](https://github.com/lavs72/Assessment/assets/102307467/10bc3481-9831-4038-8be8-3087badaaa48)
 
  ## Orders Calendar View
  ![WhatsApp Image 2024-03-14 at 12 00 25 PM (1)](https://github.com/lavs72/r/assets/102307467/7c673c61-a60c-4b05-8a51-65c66255b073)
