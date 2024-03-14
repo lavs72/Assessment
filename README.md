@@ -79,16 +79,18 @@ If you encounter any issues while running the application, please refer to the f
    
 ## Screenshots
 
-![dashboard](https://github.com/lavs72/Assessment/assets/102307467/1185ca33-69a0-4f2b-b26a-3cac8036c064)
+ ## Dashboard
+ ![WhatsApp Image 2024-03-14 at 12 00 25 PM](https://github.com/lavs72/Assessment/assets/102307467/10bc3481-9831-4038-8be8-3087badaaa48)
+
+ ## Products Management
+ ![WhatsApp Image 2024-03-14 at 12 00 24 PM (1)](https://github.com/lavs72/Assessment/assets/102307467/b5f8ec67-379d-48c5-8d12-93fa5f73b4a4)
 
 
- ![productmanagement](https://github.com/lavs72/Assessment/assets/102307467/eed9406d-48b5-4f9f-9bc3-69bb61a1c1c5)
+ ## Orders Management
+ ![WhatsApp Image 2024-03-14 at 12 00 24 PM](https://github.com/lavs72/Assessment/assets/102307467/1704d390-f0e6-421f-90c0-0a861fdaf9fe)
 
 
- ![ordermanagement](https://github.com/lavs72/Assessment/assets/102307467/cefbabc5-2bc2-4c9d-a2da-233c9bbebe27)
-
-
- ## Order Calendar View
+ ## Orders Calendar View
  ![WhatsApp Image 2024-03-14 at 12 00 25 PM (1)](https://github.com/lavs72/r/assets/102307467/7c673c61-a60c-4b05-8a51-65c66255b073)
 
 
