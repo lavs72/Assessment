@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README provides detailed instructions on how to run and use the front-end application for our ERP (Enterprise Resource Planning) system.
+This README provides detailed instructions on how to run and use the front-end application for our ERP (Enterprise Resource Planning) 
 
 ## Prerequisites
 
